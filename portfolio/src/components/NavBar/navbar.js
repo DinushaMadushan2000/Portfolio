@@ -10,7 +10,7 @@ const Navbar = () => {
       <div className="desktopMenu">
         <Link className="detailsMenuListItem">Home</Link>
         <Link className="detailsMenuListItem">About</Link>
-        <Link className="detailsMenuListItem">Portpolio</Link>
+        <Link className="detailsMenuListItem">My Projects</Link>
         <Link className="detailsMenuListItem">Clients</Link>
 
       </div>

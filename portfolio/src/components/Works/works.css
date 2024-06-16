@@ -31,12 +31,15 @@
     max-width: 65rem;
 }
 
-.worksImg{
+/* .worksImg{
     object-fit: cover;
     height: 20rem;
     margin: 0.5rem;
-}
+} */
 
+.imgp{
+    width: 10%;
+}
 @media screen and(max-width:585px) {
     .worksImg{
         height: 48vw;
