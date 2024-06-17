@@ -30,7 +30,7 @@ const Navbar = () => {
         <Link activeClass='active' to='works' spy={true} smooth={true} offset={-120} duration={500} className="listItem" onClick={()=>setShowMenu(false)}>My Projects</Link>
         <Link activeClass='active' to='contact' spy={true} smooth={true} offset={-100} duration={500} className="listItem" onClick={()=>setShowMenu(false)}>Contact Me</Link>
 
-      {/* </div> */}
+      </div>
 
     </nav>
   );
